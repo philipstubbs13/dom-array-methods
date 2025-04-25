@@ -2,7 +2,7 @@
 
 An interactive web application that demonstrates the use of JavaScript array methods to manipulate and display data dynamically in the DOM. This project allows users to simulate managing a list of people and their wealth.
 
-<img src="./img/screenshot.png">
+<img src="./screenshot.png">
 
 ## Features
 
